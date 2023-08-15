@@ -1,0 +1,21 @@
+{
+  "name": "electric-indigo",
+  "displayName": "electric-indigo",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VivaLaBagget's Electric Indigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VivaLaBagget's Electric Indigo-color-theme.json"
+      }
+    ]
+  }
+}
